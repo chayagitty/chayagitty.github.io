@@ -9,63 +9,38 @@ export default () => {
                     <Col>
                         <Card style={{ width: '18rem' }}>
                             <Card.Body>
-                                <Card.Title>Project 1</Card.Title>
+                                <Card.Title>Medical Billing App</Card.Title>
                                 <Card.Text>
-                                    Some quick example text to build on
+                                        App I created in my computer methodoloy class in which a person can keep track of their medical bills
                                 </Card.Text>
-                                <Button onClick={() => window.open("www.google.com")} variant="primary">Show</Button>
+                                <Button onClick={() => window.open("https://github.com/chayagitty/MedicalBillingApp")} variant="primary">Show</Button>
                             </Card.Body>
                         </Card>
                     </Col>
                     <Col>
                         <Card style={{ width: '18rem' }}>
                             <Card.Body>
-                                <Card.Title>Project 2</Card.Title>
+                                <Card.Title>Credit Card App</Card.Title>
                                 <Card.Text>
-                                    Some quick example text to build on
+                                   App I created for my data structures 1 course in which a person can keep track of and manage thier credit cards
                                 </Card.Text>
-                                <Button  onClick={() => window.open("www.google.com")} variant="primary">Show</Button>
+                                <Button  onClick={() => window.open("https://github.com/chayagitty/CreditCardApp")} variant="primary">Show</Button>
                             </Card.Body>
                         </Card>
                     </Col>
                     <Col>
                         <Card style={{ width: '18rem' }}>
                             <Card.Body>
-                                <Card.Title>Project 3</Card.Title>
+                                <Card.Title>Distributed System Simulator</Card.Title>
                                 <Card.Text>
-                                    Some quick example text to build on
+                                    Project done for operating systems that demonstrates how a distributed system works
                                 </Card.Text>
-                                <Button  onClick={() => window.open("www.google.com")} variant="primary">Show</Button>
+                                <Button  onClick={() => window.open("https://github.com/chayagitty/DistributedSystemSimulator")} variant="primary">Show</Button>
                             </Card.Body>
                         </Card>
                     </Col>
                 </Row>
-                <Row>
-                    <Col />
-                    <Col>
-                        <Card style={{ width: '18rem' }}>
-                            <Card.Body>
-                                <Card.Title>Project 4</Card.Title>
-                                <Card.Text>
-                                    Some quick example text to build on
-                                </Card.Text>
-                                <Button  onClick={() => window.open("www.google.com")} variant="primary">Show</Button>
-                            </Card.Body>
-                        </Card>
-                    </Col>
-                    <Col>
-                        <Card style={{ width: '18rem' }}>
-                            <Card.Body>
-                                <Card.Title>Project 5</Card.Title>
-                                <Card.Text>
-                                    Some quick example text to build on
-                                </Card.Text>
-                                <Button  onClick={() => window.open("www.google.com")} variant="primary">Show</Button>
-                            </Card.Body>
-                        </Card>
-                    </Col>
-                    <Col />
-                </Row>
+               
             </Col>
         </div>
     </div>

@@ -9,11 +9,13 @@ export default () => {
             <h3>Education</h3>
             <ul>
                 <li>BS Computer Science Touro University</li>
+                <li> Minor in finance</li>
                 <ul style={{paddingBottom: 0}}>
                     <li style={subBullet}> Data Structures I and II</li>
-                    <li style={subBullet}>UNIX Operating Systems</li>
-                    <li style={subBullet}>Programming Languages</li>
+                    <li style={subBullet}>Computer Methodology</li>
+                    <li style={subBullet}>Operating Systems</li>
                     <li style={subBullet}>Computer Architecture</li>
+                    <li style={subBullet}>Discreet Mathematics</li>
                 </ul>
             </ul>
         </div>

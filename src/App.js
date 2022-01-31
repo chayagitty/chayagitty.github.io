@@ -3,7 +3,6 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 
 import Intro from './intro';
 import Projects from './projects';
-import Experience from './experience';
 import Education from './education';
 import Skills from './skills';
 import Other from './other';
@@ -14,7 +13,6 @@ function App() {
       <header className="App-header">
         <Intro />
         <Projects />
-        <Experience />
         <Education />
         <Skills />
         <Other />
